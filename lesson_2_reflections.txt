@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Git init setsup a folder as a respositoy allowing you to track commits and capture diff's.
+
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+ 	The staging area is an intermedory area between the working directory(files) and the respository(where the changes are stored). It allows you to be able to build up the changes you want and then commit.
